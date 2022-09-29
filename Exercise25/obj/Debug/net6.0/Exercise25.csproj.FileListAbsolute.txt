@@ -1,0 +1,15 @@
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/Exercise25
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/Exercise25.deps.json
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/Exercise25.runtimeconfig.json
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/Exercise25.dll
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/ref/Exercise25.dll
+/home/sergey/Documents/CHomeWork4/Exercise25/bin/Debug/net6.0/Exercise25.pdb
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.csproj.AssemblyReference.cache
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.AssemblyInfoInputs.cache
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.AssemblyInfo.cs
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.csproj.CoreCompileInputs.cache
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.dll
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/ref/Exercise25.dll
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.pdb
+/home/sergey/Documents/CHomeWork4/Exercise25/obj/Debug/net6.0/Exercise25.genruntimeconfig.cache
